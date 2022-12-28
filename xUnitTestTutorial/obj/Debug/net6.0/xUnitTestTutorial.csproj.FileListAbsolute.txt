@@ -1,0 +1,15 @@
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\bin\Debug\net6.0\xUnitTestTutorial.exe
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\bin\Debug\net6.0\xUnitTestTutorial.deps.json
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\bin\Debug\net6.0\xUnitTestTutorial.runtimeconfig.json
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\bin\Debug\net6.0\xUnitTestTutorial.dll
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\bin\Debug\net6.0\xUnitTestTutorial.pdb
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\obj\Debug\net6.0\xUnitTestTutorial.csproj.AssemblyReference.cache
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\obj\Debug\net6.0\xUnitTestTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\obj\Debug\net6.0\xUnitTestTutorial.AssemblyInfoInputs.cache
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\obj\Debug\net6.0\xUnitTestTutorial.AssemblyInfo.cs
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\obj\Debug\net6.0\xUnitTestTutorial.csproj.CoreCompileInputs.cache
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\obj\Debug\net6.0\xUnitTestTutorial.dll
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\obj\Debug\net6.0\refint\xUnitTestTutorial.dll
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\obj\Debug\net6.0\xUnitTestTutorial.pdb
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\obj\Debug\net6.0\xUnitTestTutorial.genruntimeconfig.cache
+C:\MainRoot\Tfs\MainCollection\ProjectTemplate\xUnitTestTutorial\xUnitTestTutorial\obj\Debug\net6.0\ref\xUnitTestTutorial.dll
